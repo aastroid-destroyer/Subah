@@ -1,4 +1,5 @@
 img{
     border: 10px solid blueviolet;
     box-shadow: 10px 5px 20px purple;
+    border-radius: 8px;
 }
